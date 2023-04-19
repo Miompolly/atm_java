@@ -58,18 +58,10 @@ if(PIN==inputPin){
   else{
     System.out.println("Incorrect choice");
   }
-
-
-
     
 }else{
     System.out.println("Incorrect PIN") ;
 }
-
-
-
-
-
 
     }
 }
